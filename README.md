@@ -20,7 +20,6 @@ Soy una desarrolladora full-stack apasionada por la tecnología e innovación, c
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## Contáctame
-## Contáctame
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mar%C3%ADa-florencia-balladares-576316287)
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flor.33.mnz@gmail.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flor.33.mnz@gmail.com) flor.33.mnz@gmail.com
 
